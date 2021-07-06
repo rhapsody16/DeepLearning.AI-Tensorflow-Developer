@@ -6,4 +6,4 @@ I'm about to gather all material that i got from Bangkit 2021.
 
 This course is sponsored by Coursera.  Hopefully it will be useful for readers.  
 
-Thank you and Happy Learning 👋
+Thanks and Happy Learning 👋
